@@ -1,0 +1,14 @@
+#Enviroments
+env
+env/
+
+__pycache__
+encryptedcode
+encryptedcode/
+
+dist
+dist/
+encryptedcode.egg-info
+encryptedcode.egg-info/
+setup.py
+setup
